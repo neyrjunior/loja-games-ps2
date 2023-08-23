@@ -1,0 +1,33 @@
+body {
+    background-color: #00030c;
+    color: white
+}
+header {
+    background-color: rgb(2, 2, 104);
+}
+.navbar-brand {
+    color: lightblue;
+    font-family: 'VT323', monospace;
+}
+.navbar-brand:hover {
+    color: lightblue;
+}
+.carousel-item img {
+    height: 500px;
+    width: 100%;
+}
+.section-title span {
+    font-family: 'VT323', monospace;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: rgb(2, 2, 104);
+    padding: 5px;
+}
+.form-control {
+    background-color: #30333a;
+    border: none    ;
+}
+.social-links {
+    list-style: none;
+    justify-content: space-around;
+}
